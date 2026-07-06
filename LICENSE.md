@@ -1,4 +1,4 @@
-# 
+# Best QueryNeural script. Download and install with graphical-interface and cross-platform-support — fast, secure, and easy to use.
 
 
 
